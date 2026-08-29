@@ -47,12 +47,12 @@ The current topics are organized around these questions:
 - Which Python-backed regression wrappers are available for numeric prediction?
 - How do the time-series examples cover both representation learning and direct forecasting?
 
-Rendered examples are available at:
+Rendered examples are available in the [examples](https://github.com/cefet-rj-dal/daltoolboxdp/tree/main/examples/) collection, with thematic subcollections:
 
-- [Autoencoders](https://github.com/cefet-rj-dal/daltoolboxdp/tree/main/examples/autoencoder) - Autoencoders for time-series windows: simple, convolutional, denoising, LSTM, stacked, and variational variants, in both encode and encode-decode forms.
-- [Classification](https://github.com/cefet-rj-dal/daltoolboxdp/tree/main/examples/classification) - Classification wrappers backed by Python libraries, including scikit-learn and PyTorch neural models.
-- [Regression](https://github.com/cefet-rj-dal/daltoolboxdp/tree/main/examples/regression) - Regression wrappers backed by Python libraries, currently including the PyTorch MLP regressor.
-- [Time Series](https://github.com/cefet-rj-dal/daltoolboxdp/tree/main/examples/timeseries) - Time-series examples for encoding, reconstruction, and direct forecasting with PyTorch models.
+- Autoencoders - autoencoders for time-series windows: simple, convolutional, denoising, LSTM, stacked, and variational variants, in both encode and encode-decode forms.
+- Classification - classification wrappers backed by Python libraries, including scikit-learn and PyTorch neural models.
+- Regression - regression wrappers backed by Python libraries, currently including the PyTorch MLP regressor.
+- Time Series - time-series examples for encoding, reconstruction, and direct forecasting with PyTorch models.
 
 ---
 
